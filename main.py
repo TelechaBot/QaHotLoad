@@ -22,3 +22,7 @@ def timer():
     from threading import Timer
     t = Timer(100, run_timer, args=[])
     t.start()
+
+
+run_timer()
+print(11)
