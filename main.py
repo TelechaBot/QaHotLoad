@@ -3,7 +3,7 @@
 # @FileName: main.py.py
 # @Software: PyCharm
 # @Github    ：sudoskys
-
+import asyncio
 
 import StarPuller
 
@@ -25,4 +25,5 @@ def timer():
 
 
 run_timer()
+
 print(11)
