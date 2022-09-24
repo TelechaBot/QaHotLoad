@@ -26,4 +26,4 @@ def timer():
 
 run_timer()
 
-print(11)
+print("这次热载完成了")
